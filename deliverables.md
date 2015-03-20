@@ -6,5 +6,5 @@
   - How do you delete all instance of a certain model?
     - ??
 - RailsTutorial Ch. 6
-  - Link to `sample_app` repo: [my repo](http://is.here)
+  - Link to `sample_app` repo: [my repo](https://github.com/chloewolf/chapter-6-app)
   - Link to app on Heroku: [my app](http://is.here)
